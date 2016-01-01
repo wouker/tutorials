@@ -4,7 +4,10 @@
   "description": "testapp",
   "main": "main.js",
   "dependencies": {
-    "express": "^4.13.3"
+    "body-parser": "^1.14.2",
+    "cookie-parser": "^1.4.0",
+    "express": "^4.13.3",
+    "multer": "^1.1.0"
   },
   "devDependencies": {},
   "scripts": {
